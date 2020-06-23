@@ -55,15 +55,15 @@ display: inline-block;
 /* create your tile classes! we recommend .small .med .large */
 .small {
   height: 20%;
-  width: 10%;
-}
-
-.med {
-  height: 20%;
   width: 20%;
 }
 
-.large {
+.med {
   height: 30%;
   width: 30%;
+}
+
+.large {
+  height: 40%;
+  width: 40%;
 }
